@@ -175,10 +175,6 @@ Conclui-se que, por mais que a área de TI seja relativamente nova no mercado, h
 Equipes étnicas e culturalmente diversas, segundo pesquisa feita pela McKinsey, têm 152% mais chances de entender as necessidades do cliente do que outra equipe, ou seja,  leva a um desempenho inclusivo e financeiro superior.
 
 
-# Link da apresentação no Power Point:
-[https://docs.google.com/presentation/d/1Z6M44b2_ZMXMOpdnt7Q6TDPGY-KI2kKduozk4GQ99xQ/edit#slide=id.p](url)
-
-
 # Referências:
 [https://www.kaggle.com/c/kaggle-survey-2019/data?select=multiple_choice_responses.csv
 ](url)
