@@ -16,8 +16,6 @@ Cargo e salário não deveriam estar relacionados a gênero, apesar de haver uma
 
 A representatividade é essencial mas a necessidade de mão de obra é o critério que impera o mundo hi tech, e àqueles que ainda não se convenceram, Ada Lovelace, Mary Kenneth Keller, Hady Lamarr, Grace Hopper e Radia Perlman são algumas, entre tantas, das mulheres que fizeram a diferença na história da tecnologia, quebrando a barreira do preconceito.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
 </h4>
 
 
